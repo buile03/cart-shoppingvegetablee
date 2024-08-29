@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bông cải xanh",
+      "image": "broccoli.jpg",
+      "age": ["0", "+"],
+      "price": 3.99
+    },
+    {
+      "id": 2,
+      "name": "Cà rốt",
+      "image": "carrots.jpg",
+      "age": ["3", "10"],
+      "price": 3.99
+    },
+    {
+      "id": 3,
+      "name": "Củ dền",
+      "image": "beetroot.jpg",
+      "price": 4.99
+    },
+    {
+      "id": 4,
+      "name": "Cà chua",
+      "image": "tomato.jpg",
+      "price": 3.99
+    },
+    {
+      "id": 5,
+      "name": "Dưa leo",
+      "image": "cucumber.jpg",
+      "price": 6.99
+    },
+    {
+      "id": 6,
+      "name": "Cà tím",
+      "image": "brinjal.jpg",
+      "price": 7.99
+    },
+    {
+      "id": 7,
+      "name": "Bông cải trắng",
+      "image": "cauliflower.jpg",
+      "price": 8.99
+    }
+  ]
+}
